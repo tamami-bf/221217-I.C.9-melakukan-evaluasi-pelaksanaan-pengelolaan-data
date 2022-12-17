@@ -1,0 +1,71 @@
+
+== Latar Belakang
+
+[.text-justify]
+Kondisi pelayanan Pajak Bumi dan Bangunan Perdesaan dan Perkotaan (PBB-P2) yang selalu ada dan relatif bertambah di tiap tahunnya berimbas kepada beban perekaman data yang semakin bertambah, bila tidak diantisipasi dan dipikirkan solusinya, maka akan berimbas kepada mundurnya proses penetapan PBB-P2 untuk tahun berikutnya.
+
+== Tujuan
+
+[.text-justify]
+Tujuan dari evaluasi ini untuk melihat komposisi perekaman data yang terjadi sebagai proses yang harus dijalani untuk mencapai terselesaikannya seluruh pelayanan PBB-P2 di tahun berjalan.
+
+== Cakupan
+
+[.text-justify]
+Data yang digunakan dalam evaluasi ini hanya berdasarkan data yang ada pada basis data SISMIOP di sistem basis data Oracle, sehingga kebijakan-kebijakan yang tidak terrekam dalam aplikasi ini diabaikan.
+
+== Periode Pelaksanaan Evaluasi
+
+[.text-justify]
+Periode pelaksanaan evaluasi ini ada pada semester 2 Tahun 2022.
+
+== Analisa Proses Pengelolaan Data Yang Sedang Berjalan
+
+[.text-justify]
+Komposisi Kecamatan yang melakukan permohonan pelayanan PBB-P2 pada Semester 2 Tahun 2022 adalah seperti pada gambar grafik berikut :
+
+.Komposisi Pengajuan Pelayanan Per Kecamatan
+image::001.png[]
+
+[.text-justify]
+Dari grafik di atas menunjukkan bahwa komposisi 3 Kecamatan yang mengajukan pelayanan terbesar ada di Bulakamba, Losari, dan Banjarharjo. Data ini menunjukkan bahwa di ketiga Kecamatan tersebut terjadi proses pengajuan perubahan data yang paling banyak di Semester 2, data ini masih harus dibandingkan dengan terjadinya perubahan pada proses pengajuan BPHTB, apakah pergerakannya linear atau mengalami jeda waktu.
+
+[.text-justify]
+Jika grafik kita lihat dari komposisi perekam data, grafiknya akan terlihat seperti berikut :
+
+.Komposisi Perekam Data
+image::002.png[]
+
+[.text-justify]
+Terlihat bahwa perekam data terbanyak ada di Entryman Cadangan 1, Entryman Cadangan 2, dan mas Bagus, dimana data sebanyak 22.138 berkas dapat diselesaikan dengan jumlah perekam data sebanyak 15 orang.
+
+[.text-justify]
+Bila diprediksi dengan menggunakan metode _least square_, maka dalam 6 bulan kedepan, jumlah berkas pelayanan yang diterima dapat diprediksi seperti berikut :
+
+.Data Prediksi Semester 1 Tahun 2023
+[options="header"]
+|===================
+|Bulan |Jumlah Pelayanan
+|Januari |-693
+|Februari |-1.073
+|Maret |-1.453
+|April |-1.833
+|Mei |-2.213
+|Juni |-2.593
+|===================
+
+[.text-justify]
+Dengan jumlah prediksi seperti itu, bila rata-rata tiap perekam dalam satu semester dapat mengerjakan 1.476, maka akan dibutuhkan 1 orang untuk menyelesaikan perekaman berkas pelayanan pada Semester 1 Tahun 2023 karena datanya negatif dan dianggap tidak ada pengajuan berkas.
+
+== Pembahasan Evaluasi dan Kinerja Pengelolaan Data Yang Sedang Berjalan
+
+[.text-justify]
+Dari hasil analisa proses pengelolaan data yang sedang berjalan, kita mendapatkan informasi bahwa di 3 Kecamatan tersebut terdapat banyak perubahan data yang dimungkinkan dapat menjadi target untuk verifikasi data peta kedepannya, sedangkan dari jumlah perekaman data untuk menyelesaikan berkas pelayanan sejumlah 13.110 berkas, dengan jumlah petugas perekam 15 orang, mampu menyelesaikan perekaman data sejumlah 22.138 berkas, atau lebih dari 100%, dengan jumlah perekam data 1 orang saja akan mampu menyelesaikan berkas permohonan Semester 1 tahun 2023 dengan asumsi prediksi berkas pelayanan yang masuk sejumlah analisa di atas.
+
+[.text-justify]
+Sebagai catatan bahwa jumlah berkas yang direkam melebihi jumlah berkas pelayanan karena di tahun ini ada kegiatan pendataan yang dilakukan Badan Pendapatan Daerah Kabupaten Brebes, sehingga berkas perekaman tidak melalui meja pelayanan.
+
+== Kesimpulan, Saran, dan Rekomendasi Perbaikan
+
+[.text-justify]
+Secara total keseluruh jumlah perekam data yang dibutuhkan sekitar 1 orang untuk menyelesaikan berkas di awal tahun 2023, dengan jumlah perekam data yang ada cukup untuk menyelesaikannya perekaman sampai dengan akhir Juli 2023.
